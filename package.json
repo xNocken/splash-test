@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "firebase": "^7.11.0",
+    "firebase-admin": "^8.10.0",
+    "ndb": "^1.1.5",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "gesahu": "node ./gesahu.js"
+  }
+}
